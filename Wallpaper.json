@@ -6,7 +6,8 @@
         "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
         "dimensions": "1080p",
         "copyright": "Free "
-    },{
+    },
+    {
         "name": "2",
         "author": "Aniset",
         "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
@@ -14,86 +15,443 @@
         "dimensions": "1080p",
         "copyright": "Free "
     },
-    
-        {
-            "name": "2",
-            "author": "Aniset",
-            "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(2).jpg",
-            "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(2).webp",
-            "dimensions": "1080p",
-            "copyright": "Free"
-        },
-        {
-            "name": "3",
-            "author": "Aniset",
-            "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(3).jpg",
-            "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(3).webp",
-            "dimensions": "1080p",
-            "copyright": "Free"
-        },
-        {
-            "name": "4",
-            "author": "Aniset",
-            "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(4).jpg",
-            "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(4).webp",
-            "dimensions": "1080p",
-            "copyright": "Free"
-        },
-        {
-            "name": "5",
-            "author": "Aniset",
-            "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(5).jpg",
-            "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(5).webp",
-            "dimensions": "1080p",
-            "copyright": "Free"
-        },
-        {
-            "name": "6",
-            "author": "Aniset",
-            "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(6).jpg",
-            "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(6).webp",
-            "dimensions": "1080p",
-            "copyright": "Free"
-        },
-        {
-            "name": "7",
-            "author": "Aniset",
-            "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(7).jpg",
-            "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(7).webp",
-            "dimensions": "1080p",
-            "copyright": "Free"
-        },
-        {
-            "name": "8",
-            "author": "Aniset",
-            "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(8).jpg",
-            "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(8).webp",
-            "dimensions": "1080p",
-            "copyright": "Free"
-        },
-        {
-            "name": "9",
-            "author": "Aniset",
-            "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(9).jpg",
-            "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(9).webp",
-            "dimensions": "1080p",
-            "copyright": "Free"
-        },
-        {
-            "name": "10",
-            "author": "Aniset",
-            "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(10).jpg",
-            "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(10).webp",
-            "dimensions": "1080p",
-            "copyright": "Free"
-        },
- 
-    
     {
-        "name": "",
+        "name": "2",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(2).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(2).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "3",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(3).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(3).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "4",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(4).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(4).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "5",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(5).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(5).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "6",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(6).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(6).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "7",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(7).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(7).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "8",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(8).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(8).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "9",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(9).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(9).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "10",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(10).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(10).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "11",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(11).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(11).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "12",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(12).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(12).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "13",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(13).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(13).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "14",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(14).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(14).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "15",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(15).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(15).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "16",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(16).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(16).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "17",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(17).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(17).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "18",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(18).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(18).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "19",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(19).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(19).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "20",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(20).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(20).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "21",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(21).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(21).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "22",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(22).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(22).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "23",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(23).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(23).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "24",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(24).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(24).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "25",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(25).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(25).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "26",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(26).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(26).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "27",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(27).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(27).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "28",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(28).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(28).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "29",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(29).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(29).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "30",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(30).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(30).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "31",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(31).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(31).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "32",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(32).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(32).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "33",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(33).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(33).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "34",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(34).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(34).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "35",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(35).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(35).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "36",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(36).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(36).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "37",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(37).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(37).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "38",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(38).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(38).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "39",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(39).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(39).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "40",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(40).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(40).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "41",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(41).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(41).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "42",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(42).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(42).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "43",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(43).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(43).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "44",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(44).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(44).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "45",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(45).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(45).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "46",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(46).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(46).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "47",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(47).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(47).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "48",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(48).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(48).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "49",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(49).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(49).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "50",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(50).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(50).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "51",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(51).jpg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(51).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "53",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/2%20(1).png",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/2%20(1).webp",
+        "dimensions": "1080p",
+        "copyright": "Free "
+    },
+    {
+        "name": "54",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/2%20(2).png",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/2%20(2).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "55",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/2%20(3).png",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/2%20(3).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "56",
+        "author": "Aniset",
+        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/2%20(4).png",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/2%20(4).webp",
+        "dimensions": "1080p",
+        "copyright": "Free"
+    },
+    {
+        "name": "57",
         "author": "Aniset",
         "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(3).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20().jpeg",
+        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(3).jpeg",
         "dimensions": "1080p",
         "copyright": "Free "
     }
