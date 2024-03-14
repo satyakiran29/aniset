@@ -1,5 +1,5 @@
 # Aniset -Kwgt App
-wallpaper server
+
 
 
 Aniset Kwgt Widgets Based on Anime 
