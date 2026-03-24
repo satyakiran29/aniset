@@ -148,9 +148,10 @@ Contributions are welcome! Whether it's new wallpapers, ringtones, or bug fixes:
 
 ## 💬 Support & Community
 
-> [!IMPORTANT]
-> **Why is the Play Store price higher?**
-> Due to refund abuse and Play Store taxes, the price on the Play Store has been increased. To avoid the Play Store tax, discounted pricing is available for direct purchases — contact [@skdev1 on Telegram](https://t.me/skdev1) for details.
+<blockquote>
+  <strong>⚠️ Why is the Play Store price higher?</strong><br/>
+  Due to refund abuse and Play Store taxes, the price on the Play Store has been increased. To avoid the Play Store tax, discounted pricing is available for direct purchases — contact <a href="https://t.me/skdev1">@skdev1 on Telegram</a> for details.
+</blockquote>
 
 | Channel | Link |
 |---|---|
