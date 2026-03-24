@@ -1,11 +1,114 @@
-<html>
-    <head>
-        <title></title>
-    </head>
-    <body>
-        <h1>Welcome to My Web Page</h1>
-        <p>This is a simple HTML page.</p>
-        <p>Feel free to explore!</p>
-    </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aniset — Anime KWGT Widgets</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #1a1a2e;
+            color: #eee;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .card {
+            background: #16213e;
+            border-radius: 16px;
+            padding: 40px 32px;
+            max-width: 520px;
+            width: 100%;
+            text-align: center;
+        }
+        h1 { font-size: 1.8rem; margin-bottom: 8px; }
+        h1 span { font-size: 1.4rem; }
+        .tagline { color: #9ba4b5; margin-bottom: 24px; font-size: 0.95rem; }
+        .notice {
+            background: #1a1a3e;
+            border-left: 4px solid #f0a500;
+            border-radius: 8px;
+            padding: 14px 16px;
+            text-align: left;
+            margin-bottom: 24px;
+            font-size: 0.88rem;
+            line-height: 1.5;
+        }
+        .notice strong { color: #f0a500; }
+        .links { display: flex; flex-direction: column; gap: 10px; }
+        .links a {
+            display: block;
+            padding: 12px;
+            border-radius: 10px;
+            text-decoration: none;
+            color: #fff;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: opacity 0.2s;
+        }
+        .links a:hover { opacity: 0.85; }
+        .play   { background: #0f9d58; }
+        .web    { background: #3b82f6; }
+        .tg     { background: #229ed9; }
+        .dev    { background: #6c5ce7; }
+        .gh     { background: #333; }
+        .info {
+            background: #0f3460;
+            border-radius: 8px;
+            padding: 14px 16px;
+            text-align: left;
+            margin-bottom: 16px;
+            font-size: 0.88rem;
+            line-height: 1.6;
+        }
+        .info code {
+            background: #1a1a3e;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+        .badge {
+            display: inline-block;
+            background: #0f9d58;
+            color: #fff;
+            font-size: 0.7rem;
+            font-weight: 700;
+            padding: 3px 8px;
+            border-radius: 20px;
+            vertical-align: middle;
+            margin-left: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>🎌 Aniset <span>— Anime KWGT Widgets</span></h1>
+        <p class="tagline">Wallpapers, ringtones & widgets for your Android home screen</p>
 
+        <div class="info">
+            📂 This repo is the <strong>asset backend</strong> for Aniset, upcoming Aniset Pro & Anify.<br>
+            It serves wallpapers, ringtones & widget data as a lightweight JSON API via GitHub raw URLs.<br><br>
+            🟢 <strong>API Status:</strong> <span class="badge">LIVE</span><br>
+            Endpoints: <code>Wallpaper.json</code> · <code>Anify.json</code> · <code>Ringtones.json</code>
+        </div>
+
+        <div class="notice">
+            <strong>⚠️ Why is the Play Store price higher?</strong><br>
+            Due to refund abuse and Play Store taxes, the price has been increased.
+            Discounted pricing is available for direct purchases —
+            contact <a href="https://t.me/skdev1" style="color:#f0a500">@skdev1 on Telegram</a>.
+        </div>
+
+        <div class="links">
+            <a class="play" href="https://play.google.com/store/apps/details?id=com.skdev.aniset">▶ Google Play Store</a>
+            <a class="web" href="https://aniset.vercel.app/">🌐 Website &amp; Screenshots</a>
+            <a class="tg" href="https://t.me/skdev29">💬 Telegram Community</a>
+            <a class="dev" href="https://t.me/skdev1">📩 Developer Contact</a>
+            <a class="gh" href="https://github.com/satyakiran29/aniset">🐙 GitHub Repository</a>
+        </div>
+    </div>
+</body>
 </html>
