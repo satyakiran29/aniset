@@ -1,183 +1,1253 @@
-[
+﻿[
     {
-        "name": "1",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Abstract"
+        "name":  "1",
+        "author":  "Aniset",
+        "url":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
+        "thumbnail":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Abstract"
     },
     {
-        "name": "2",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Top Choice"
-    },{
-        "name": "1",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Abstract"
+        "name":  "2",
+        "author":  "Aniset",
+        "url":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Top Choice"
     },
     {
-        "name": "2",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Top Choice"
+        "name":  "4",
+        "author":  "Aniset",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/1%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/1%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Top Choice"
     },
     {
-        "name": "4",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/1%20(2).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/1%20(2).jpg",
-        "dimensions": "1080p",
-        "copyright":"Free ",
-        "category": "Top Choice"
-    },{
-        "name": "1",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Abstract"
+        "name":  "1",
+        "author":  "Aniset",
+        "url":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
+        "thumbnail":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Abstract"
     },
     {
-        "name": "2",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Top Choice"
-    },{
-        "name": "1",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Abstract"
+        "name":  "2",
+        "author":  "Aniset",
+        "url":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Top Choice"
     },
     {
-        "name": "2",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Top Choice"
-    },{
-        "name": "1",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Abstract"
+        "name":  "1",
+        "author":  "Aniset",
+        "url":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
+        "thumbnail":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Abstract"
     },
     {
-        "name": "2",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Top Choice"
-    },{
-        "name": "1",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Abstract"
+        "name":  "2",
+        "author":  "Aniset",
+        "url":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Top Choice"
     },
     {
-        "name": "2",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Top Choice"
-    },{
-        "name": "1",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Abstract"
+        "name":  "Anime 28",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(1).png",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(1).png",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Anime"
     },
     {
-        "name": "2",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Top Choice"
-    },{
-        "name": "1",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Abstract"
+        "name":  "Anime 29",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(2).png",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(2).png",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Anime"
     },
     {
-        "name": "2",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Top Choice"
-    },{
-        "name": "1",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Abstract"
+        "name":  "Anime 30",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(3).png",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(3).png",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Anime"
     },
     {
-        "name": "2",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Top Choice"
-    },{
-        "name": "1",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/1%20(1).jpeg",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Abstract"
+        "name":  "Anime 31",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(4).png",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(4).png",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Anime"
     },
     {
-        "name": "2",
-        "author": "Aniset",
-        "url": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/W/3%20(1).jpg",
-        "thumbnail": "https://raw.githubusercontent.com/satyakiran29/aniset/main/Wallpapers/T/3%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free ",
-        "category": "Top Choice"
+        "name":  "Anime 32",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(5).png",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(5).png",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Anime"
+    },
+    {
+        "name":  "Anime 33",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(6).png",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(6).png",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Anime"
+    },
+    {
+        "name":  "Anime 34",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(7).png",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(7).png",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Anime"
+    },
+    {
+        "name":  "Anime 35",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(8).png",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(8).png",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Anime"
+    },
+    {
+        "name":  "Anime 36",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(9).png",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Anime/anime%20(9).png",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Anime"
+    },
+    {
+        "name":  "Dreamland 53",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Dreamland"
+    },
+    {
+        "name":  "Dreamland 54",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Dreamland"
+    },
+    {
+        "name":  "Dreamland 55",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Dreamland"
+    },
+    {
+        "name":  "Dreamland 56",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Dreamland"
+    },
+    {
+        "name":  "Dreamland 57",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(5).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(5).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Dreamland"
+    },
+    {
+        "name":  "Dreamland 58",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(6).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(6).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Dreamland"
+    },
+    {
+        "name":  "Dreamland 59",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(7).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(7).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Dreamland"
+    },
+    {
+        "name":  "Dreamland 60",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(8).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Dreamland/dreamland%20(8).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Dreamland"
+    },
+    {
+        "name":  "Fluidity 81",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/fluidity%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/fluidity%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 80",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/fluidity%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/fluidity%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 79",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/fluidity%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/fluidity%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 78",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/fluidity%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/fluidity%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Mixed 64",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mixed/Mixed%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mixed/Mixed%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Mixed"
+    },
+    {
+        "name":  "Mixed 63",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mixed/Mixed%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mixed/Mixed%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Mixed"
+    },
+    {
+        "name":  "Mixed 62",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mixed/Mixed%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mixed/Mixed%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Mixed"
+    },
+    {
+        "name":  "Mixed 61",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mixed/Mixed%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mixed/Mixed%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Mixed"
+    },
+    {
+        "name":  "Christmas 1",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 2",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 3",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 4",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 5",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(5).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(5).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 6",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(6).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(6).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 7",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(7).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(7).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 8",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(8).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(8).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 9",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(9).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(9).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 10",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(10).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(10).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 11",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(11).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(11).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 12",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(12).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(12).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 13",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(13).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(13).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 14",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(14).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(14).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 15",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(15).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(15).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 16",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(16).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(16).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 17",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(17).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(17).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 18",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(18).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(18).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 19",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(19).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(19).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 20",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(20).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(20).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 21",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(21).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(21).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 22",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(22).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(22).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 23",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(23).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(23).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 24",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(24).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(24).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 25",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(25).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(25).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 26",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(26).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(26).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 27",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(27).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(27).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 28",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(28).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(28).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 29",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(29).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(29).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 30",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(30).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(30).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 31",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(31).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(31).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Christmas 32",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(32).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Christmas/Christmas%20(32).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Christmas"
+    },
+    {
+        "name":  "Mountain Mania 36",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mountain%20Mania/Artisty.png",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mountain%20Mania/Artisty.png",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Mountain Mania"
+    },
+    {
+        "name":  "Artistic Scenery 71",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artisty%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artisty%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 72",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artisty%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artisty%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 73",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artisty%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artisty%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 74",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artisty%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artisty%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 75",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artisty%20(5).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artisty%20(5).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Fluidity 73",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluidddd%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluidddd%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 74",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluidddd%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluidddd%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 75",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluidddd%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluidddd%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 76",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluidddd%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluidddd%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 77",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluidddd%20(5).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluidddd%20(5).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Flower \u0026 Leaves 51",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Flower%20%26%20Leaves/abc.jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Flower%20%26%20Leaves/abc.jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Flower \u0026 Leaves"
+    },
+    {
+        "name":  "Abstract 76",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Abstract/Abstract%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Abstract/Abstract%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Abstract"
+    },
+    {
+        "name":  "Abstract 77",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Abstract/Abstract%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Abstract/Abstract%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Abstract"
+    },
+    {
+        "name":  "Abstract 78",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Abstract/Abstract%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Abstract/Abstract%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Abstract"
+    },
+    {
+        "name":  "Artistic Scenery 61",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 62",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 63",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 64",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 65",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(5).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(5).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 66",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(6).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(6).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 67",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(7).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(7).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 68",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(8).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(8).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 69",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(9).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(9).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Artistic Scenery 70",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(10).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Artistic%20Scenery/Artistic%20(10).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Artistic Scenery"
+    },
+    {
+        "name":  "Fluidity 66",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 67",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 68",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 69",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 70",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(5).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(5).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 71",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(6).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(6).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Fluidity 72",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(7).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Fluidity/Fluid%20(7).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Fluidity"
+    },
+    {
+        "name":  "Setup Special 142",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Setup Special"
+    },
+    {
+        "name":  "Setup Special 143",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Setup Special"
+    },
+    {
+        "name":  "Setup Special 144",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Setup Special"
+    },
+    {
+        "name":  "Setup Special 145",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Setup Special"
+    },
+    {
+        "name":  "Setup Special 146",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(5).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(5).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Setup Special"
+    },
+    {
+        "name":  "Setup Special 147",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(6).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(6).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Setup Special"
+    },
+    {
+        "name":  "Setup Special 148",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(7).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(7).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Setup Special"
+    },
+    {
+        "name":  "Setup Special 149",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(8).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(8).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Setup Special"
+    },
+    {
+        "name":  "Setup Special 150",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(9).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Setup%20Special/Special%20(9).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Setup Special"
+    },
+    {
+        "name":  "GTA 1",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 2",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 3",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 4",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 5",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(5).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(5).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 6",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(6).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(6).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 7",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(7).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(7).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 8",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(8).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(8).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 9",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(9).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(9).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 10",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(10).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(10).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 11",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(11).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(11).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 12",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(12).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(12).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 13",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(13).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(13).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 14",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(14).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(14).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 15",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(15).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(15).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 16",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(16).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(16).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 17",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(17).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(17).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 18",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(18).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(18).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 19",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(19).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(19).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 20",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(20).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(20).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 21",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(21).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(21).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 22",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(22).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(22).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 23",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(23).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(23).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 24",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(24).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(24).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 25",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(25).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(25).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 26",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(26).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(26).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 27",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(27).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(27).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 28",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(28).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(28).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 29",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(29).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(29).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "GTA 30",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(30).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/GTA/GTA%20(30).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "GTA"
+    },
+    {
+        "name":  "Mountain Mania 31",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mountain%20Mania/Mountain%20(1).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mountain%20Mania/Mountain%20(1).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Mountain Mania"
+    },
+    {
+        "name":  "Mountain Mania 32",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mountain%20Mania/Mountain%20(2).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mountain%20Mania/Mountain%20(2).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Mountain Mania"
+    },
+    {
+        "name":  "Mountain Mania 33",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mountain%20Mania/Mountain%20(3).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mountain%20Mania/Mountain%20(3).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Mountain Mania"
+    },
+    {
+        "name":  "Mountain Mania 34",
+        "author":  "Anify",
+        "url":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mountain%20Mania/Mountain%20(4).jpg",
+        "thumbnail":  "https://raw.githubusercontent.com/skdev0299/Anify/refs/heads/main/wallpapers/w/Mountain%20Mania/Mountain%20(4).jpg",
+        "dimensions":  "1080p",
+        "copyright":  "Free ",
+        "category":  "Mountain Mania"
     }
-
 ]
