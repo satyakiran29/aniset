@@ -1,1 +1,7 @@
-
+{
+  "versionName": "1.1.0",
+  "versionCode": 29,
+  "apkUrl": "https://play.google.com/store/apps/details?id=com.skdev.anify",
+  "changelog": [
+"testing" ]
+}
