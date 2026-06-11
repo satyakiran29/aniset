@@ -3,5 +3,11 @@
   "versionCode": 15,
   "apkUrl": "https://play.google.com/store/apps/details?id=com.skdev.anify",
   "changelog": [
-"testing" ]
+    "New 5-slide onboarding tour for key features",
+    "Improved Focus Lock security and navigation",
+    "Removed all ads for a cleaner premium experience",
+    "Added Support/Donate option",
+    "UI refinements and bug fixes",
+    "Performance improvements"
+  ]
 }
