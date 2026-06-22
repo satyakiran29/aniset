@@ -1,13 +1,13 @@
 {
-  "versionName": "1.1.2",
-  "versionCode": 15,
+  "versionName": "1.1.3",
+  "versionCode": 18,
   "apkUrl": "https://play.google.com/store/apps/details?id=com.skdev.anify",
   "changelog": [
-    "New 5-slide onboarding tour for key features",
-    "Improved Focus Lock security and navigation",
-    "Removed all ads for a cleaner premium experience",
-    "Added Support/Donate option",
-    "UI refinements and bug fixes",
-    "Performance improvements"
+    "New iOS Photos Widget with gallery and Google Photos support",
+    "Custom photo labels and tap-to-cycle functionality",
+    "Widget settings available from the widget catalog",
+    "Removed CPU Widget and monitoring service for better performance",
+    "Removed Shizuku dependency and reduced app size",
+    "Updated widget count to 21"
   ]
 }
