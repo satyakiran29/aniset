@@ -1,13 +1,16 @@
 {
-  "versionName": "1.1.3",
-  "versionCode": 18,
+  "versionName": "1.1.4",
+  "versionCode": 19,
   "apkUrl": "https://play.google.com/store/apps/details?id=com.skdev.anify",
   "changelog": [
-    "New iOS Photos Widget with gallery and Google Photos support",
-    "Custom photo labels and tap-to-cycle functionality",
-    "Widget settings available from the widget catalog",
-    "Removed CPU Widget and monitoring service for better performance",
-    "Removed Shizuku dependency and reduced app size",
-    "Updated widget count to 21"
+    "Added KWGT widget integration",
+    "Introduced the new Nothing Hex Widget",
+    "Added Month Clock settings with multiple styles",
+    "Added widget categories and improved search",
+    "Added new accent colours and Pure Black OLED mode",
+    "Redesigned widget cards with a modern layout",
+    "Implemented collapsible wallpaper gallery scrolling",
+    "Fixed widget overlap issues and improved stability",
+    "General UI polish and performance improvements"
   ]
 }
