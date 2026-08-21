@@ -1,16 +1,17 @@
 {
-  "versionName": "1.1.4",
-  "versionCode": 19,
+  "versionName": "1.1.5",
+  "versionCode": 20,
   "apkUrl": "https://play.google.com/store/apps/details?id=com.skdev.anify",
   "changelog": [
-    "Added KWGT widget integration",
-    "Introduced the new Nothing Hex Widget",
-    "Added Month Clock settings with multiple styles",
-    "Added widget categories and improved search",
-    "Added new accent colours and Pure Black OLED mode",
-    "Redesigned widget cards with a modern layout",
-    "Implemented collapsible wallpaper gallery scrolling",
-    "Fixed widget overlap issues and improved stability",
-    "General UI polish and performance improvements"
+    "Added Sticker Studio",
+    "Added Telegram to WhatsApp sticker pack conversion with one-tap export and pack management",
+    "Added in-app KWGT copyright and widget removal requests",
+    "Improved Focus Lock controls and redesigned its UI",
+    "Fixed multiple Focus Lock bugs and improved stability",
+    "Added automatic crash reports with device diagnostics",
+    "Added crash log export and sharing",
+    "Improved compatibility with Android 7.0+",
+    "Updated target SDK to Android 16 (API 36)",
+    "General UI polish, bug fixes, and performance improvements"
   ]
 }
